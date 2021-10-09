@@ -1,4 +1,4 @@
-# num_methods
+# Computational methods for physics
 A repository for several numerical methods used in physics.
 1. Root finding methods 
 2. Finite difference method
